@@ -1,6 +1,6 @@
 ---
 layout: home
-title: What's That Bill Do?
+title: Hi Ryan
 metaDesc: Learn about proposed legislation in plain English.  We explain what a
   bill does in a simple conversational way. No more confusing jargon.
 postsHeading: Latest posts
